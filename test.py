@@ -1,5 +1,6 @@
 print("Welcome to the test applicationssss!")
 print("Enter a menu option!")
+print("Enter a menu option!")
 print("-" * 30)
 print("-" * 30)
 print("My name is Joe")
