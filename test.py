@@ -1,4 +1,4 @@
-print("Welcome to the test application!")
+print("Welcome to the test applications!")
 print("Enter a menu option!")
 print("-" * 30)
 print("My name is Joe")
